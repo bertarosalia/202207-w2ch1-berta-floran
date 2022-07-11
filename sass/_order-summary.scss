@@ -1,0 +1,9 @@
+@use "../sass/variables/colors";
+
+.container {
+  background-color: colors.$primary-color;
+  width: 375px;
+  border-radius: 16px;
+}
+.header--image {
+}
